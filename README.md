@@ -1,4 +1,4 @@
-# SparseMemoryHippocampus
+# Sparse memory in the hippocampus
 This is a project that models the entorhinal cortex in the hippocampus
 www.bashivanlab.org
 
