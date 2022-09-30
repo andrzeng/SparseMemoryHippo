@@ -1,5 +1,5 @@
 # Sparse memory in the hippocampus
-This is a project that models the entorhinal cortex in the hippocampus. Work is ongoing and supervised by Dr. Pouya Bashivan  
+This is a project that models the entorhinal cortex near the hippocampus. Work is ongoing and supervised by Dr. Pouya Bashivan  
 www.bashivanlab.org
 
 Work cited:  
